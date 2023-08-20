@@ -1,0 +1,11 @@
+h1 {
+    background-color: blue;
+}
+.Ingredients,
+.Steps {
+    font-size: 14px;
+}
+.description {
+    font-size: 24px;
+}
+
